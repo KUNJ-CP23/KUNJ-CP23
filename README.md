@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunj-cp23&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+
 </div>
 
 <div align="center">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunj-cp23&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="kunj-cp23" />
+    <img align="left" float="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunj-cp23&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="kunj-cp23" />
 </div>
 
 <div align="center">
