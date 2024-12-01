@@ -23,7 +23,7 @@ Myself **Kunj Ramoliya**!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunj-cp23&label=Profile%20views&color=0e75b6&style=flat" alt="kunj-cp23" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/kunj-cp23?label=Follow&style=social)](https://github.com/ParamSavjani?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/kunj-cp23?label=Follow&style=social)](https://github.com/kunj-cp23?tab=followers)
 
 
 ### 🚀 About Me
