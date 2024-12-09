@@ -32,7 +32,7 @@ Myself **Kunj Ramoliya**!
 
 - 📫 How to reach me **kunjramoliya367@gmail.com**
 
-- ⚡ Working on DSA concepts, Web-Developent.
+- ⚡ Working on DSA concepts, Web-Development.
 <br>
 
 ## 📫 Connect with me:
