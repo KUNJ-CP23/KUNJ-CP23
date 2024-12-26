@@ -105,10 +105,15 @@ Myself **Kunj Ramoliya**!
 <br>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunj-cp23&show_icons=true&theme=radical" alt="GitHub stats"/>
+<div align="center">
+  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj-cp23&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kunj-cp23&show_icons=true&theme=radical" alt="GitHub stats"/>
+  </p>
+</div>
+
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj-cp23&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="kunj-cp23" />
 </div> -->
