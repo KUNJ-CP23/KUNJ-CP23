@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to My GitHub Profile! 👋
+
+<!--<div align="center">
+  <img src="https://github.com/KUNJ-CP23/KUNJ-CP23/blob/main/200w.gif" height="350" width="500" alt="Creative GIF">
+</div>-->
 <!--<h1 align="left">Kunj Ramoliya</h1>
 <h3 align="left">Philomath</h3>-->
 Myself **Kunj Ramoliya**!
