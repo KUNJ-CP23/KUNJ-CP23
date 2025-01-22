@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <h3 align="left">Philomath</h3>-->
 Myself **Kunj Ramoliya**!
 
+<!-- <img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />-->
+
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunj-cp23&label=Profile%20views&color=0e75b6&style=flat" alt="kunj-cp23" /> </p>
