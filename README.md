@@ -34,11 +34,13 @@ Myself **Kunj Ramoliya**!
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Python** , **Flutter**
+- 🌱 I’m currently learning  **Flutter** Technology.
 
 - 📫 How to reach me **kunjramoliya367@gmail.com**
 
 - ⚡ Working on DSA concepts, Web-Development.
+
+- 😄 Fun Fact : I cannot survive without being **Consistent**.
 <br>
 
 ## 📫 Connect with me:
