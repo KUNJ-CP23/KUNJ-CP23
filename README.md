@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>-->
 <!--<h1 align="left">Kunj Ramoliya</h1>
 <h3 align="left">Philomath</h3>-->
-Myself **Kunj Ramoliya**!
+Myself **Kunj Ramoliya**
 
 <!-- <img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />-->
 
