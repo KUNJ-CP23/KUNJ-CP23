@@ -34,7 +34,7 @@ My name is **Kunj Ramoliya**
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning  **Flutter** Technology.
+- 🌱 I’m currently learning  **Flutter** Technology and **Pyhton**.
 
 - 📫 How to reach me **kunjramoliya367@gmail.com**
 
