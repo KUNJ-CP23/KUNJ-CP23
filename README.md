@@ -34,7 +34,7 @@ Myself **Kunj Ramoliya**
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning  **Flutter** Technology and **Pyhton**.
+- 🌱 I’m currently learning  **Flutter** Technology and **Python**.
 
 - 📫 How to reach me **kunjramoliya367@gmail.com**
 
