@@ -34,13 +34,13 @@ Myself **Kunj Ramoliya**
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning  **Flutter** Technology and **Python**.
+- 🌱 I’m currently learning  **ASP.net Core** Technology.
 
-- 📫 How to reach me **kunjramoliya367@gmail.com**
-
-- ⚡ Working on DSA concepts, Web-Development.
+- ⚡ Working on DSA concepts, Web-Development and OpenCV.
 
 - 😄 Fun Fact : I cannot survive without being **Consistent**.
+
+- 📫 How to reach me **kunjramoliya367@gmail.com**
 <br>
 
 ## 📫 Connect with me:
