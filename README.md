@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning  **ASP.net Core** Technology.
+- 🌱 I’m currently learning  **ASP.net Core** Technology and **Data Mining**.
 
-- ⚡ Working on DSA concepts, Web-Development and OpenCV.
+- ⚡ Working on DSA concepts and Web-Development.
 
 - 😄 Fun Fact : I cannot survive without being **Consistent**.
 
