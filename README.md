@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 </div>-->
 <!--<h1 align="left">Kunj Ramoliya</h1>
 <h3 align="left">Philomath</h3>-->
-<!-- I am **Kunj Ramoliya** -->
+<!-- I am **Kunj Ramoliya**
+
+
+
+- ⚡ Working on DSA concepts and Web-Development.
+-->
+
+
 
 <!-- <img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />-->
 
@@ -35,8 +42,6 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 - 🌱 I’m currently learning  **ASP.net Core** Technology and **Data Mining**.
-
-- ⚡ Working on DSA concepts and Web-Development.
 
 - 😄 Fun Fact : I cannot survive without being **Consistent**.
 
