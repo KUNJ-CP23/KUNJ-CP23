@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# **Kunj Ramoliya**
+# **I'm Kunj Ramoliya**
 
 <!--<div align="center">
   <img src="https://github.com/KUNJ-CP23/KUNJ-CP23/blob/main/200w.gif" height="350" width="500" alt="Creative GIF">
