@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning  **Python** and **Data Mining**.
+- 🌱 I’m currently learning  **How to Not Overthink** , **Focus on my Work** and **Deep Learning**.
 
 - 😄 Fun Fact : I cannot survive without being **Consistent**.
 
