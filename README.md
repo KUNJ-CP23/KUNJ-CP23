@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  **How to Not Overthink** , **Focus on my Work** and **Deep Learning**.
 
-- 😄 Fun Fact : I cannot survive without being **Consistent**.
+- 😄 Fun Fact : I cannot survive without being **Consistent**, where Consistency here is not related to green dots while maintaining streak in github.
 
 - 📫 How to reach me **kunjramoliya367@gmail.com**
 <br>
